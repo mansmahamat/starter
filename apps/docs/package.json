@@ -15,11 +15,11 @@
 	"dependencies": {
 		"@repo/tailwind-config": "workspace:*",
 		"@repo/ui": "workspace:*",
-		"fumadocs-core": "16.8.0",
-		"fumadocs-mdx": "14.3.1",
-		"fumadocs-ui": "16.8.0",
+		"fumadocs-core": "16.17.9",
+		"fumadocs-mdx": "15.4.10",
+		"fumadocs-ui": "16.17.9",
 		"lucide-react": "catalog:",
-		"next": "^16.2.4",
+		"next": "^16.4.4",
 		"react": "catalog:",
 		"react-dom": "catalog:",
 		"tailwind-merge": "catalog:"
@@ -27,8 +27,8 @@
 	"devDependencies": {
 		"@tailwindcss/postcss": "catalog:",
 		"@types/mdx": "catalog:",
-		"@types/node": "^25.6.0",
-		"@types/react": "^19.2.14",
+		"@types/node": "^26.6.6",
+		"@types/react": "^19.3.0",
 		"@types/react-dom": "catalog:",
 		"postcss": "catalog:",
 		"tailwindcss": "catalog:",
